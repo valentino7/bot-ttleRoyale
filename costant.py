@@ -5,7 +5,7 @@ role='Da scrivere'
 
 commands= '/bottle_royale: apertura gioco'
 
-TOKEN = '628533657:AAGJXWNwcqARguCKXDn0M61tVJQ5OPIDWx4'
+TOKEN = 'insert your telegram token'
 
 attack=['CgADBAADggADr9OEUhX2l731sjrLAg','CgADBAADqQADaD2EUlCEvPoYnlarAg','CgADBAADowADZx-EUhYbWZk6yIQZAg','CgADBAAD6gADk4p8UspbE7k1XL-YAg']
 troll=['CgADBAADhgADEZ2NUhPU8ldF86LqAg','CgADBAADxwADY5-NUjKlv-FIe6gkAg','CgADBAADcAAD6QuMUq-3Ji0-Fkg6Ag','CgADBAAD0gADihiMUuJ5MS7pwDyEAg','CgADBAADZgADuCWNUijI684KgHt2Ag','CgADBAAD1gADjkmMUmVz-EI-8ivJAg','CgADBAADhQADB0CNUg_EDznR61qJAg','CgADBAADrwADaJmNUuGl_6PwksbBAg','CgADBAAD5wADjN-NUnfI6PCwPPkyAg','CgADBAAD7AADEzuEUnsaalihypOxAg','CgADBAADZQADkVOMUqVp6pTtROKdAg']
